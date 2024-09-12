@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1617927595 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre iii\programación i\proy2doparc\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<fstream>
+
+1618021832 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre iii\programación i\laboratorios hechos (proyectos)\proy2doparc\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<fstream>
+

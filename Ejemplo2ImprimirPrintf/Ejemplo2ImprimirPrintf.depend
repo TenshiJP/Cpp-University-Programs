@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614196250 source:d:\angel\documents\ingeniería en sitemas de información y ciencias de la computación\semestre iii\programación i\laboratorios hechos (proyectos)\ejemplo2imprimirprintf\main.cpp
+	<iostream>
+	<string>
+
