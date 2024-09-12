@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622070647 source:c:\users\alumno\desktop\laboratorios\manejopilas\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
